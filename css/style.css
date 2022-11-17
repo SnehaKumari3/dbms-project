@@ -191,7 +191,7 @@ body {
   background: #fff;
 }
 .header {
-  background: url(../images/hd-bg.png);
+  background: rgb(159, 3, 3);
 }
 .header-top {
   border-bottom: 2px ridge #333;
@@ -245,7 +245,7 @@ a:hover {
   margin-right: 20px;
 }
 #example-one a {
-  color: #aaa;
+  color: white;
   font-size: 16px;
   float: left;
   padding: 6px 10px 4px 10px;
@@ -253,15 +253,15 @@ a:hover {
   text-transform: uppercase;
 }
 #example-one a:hover {
-  color: #db9603;
+  color: #f6f627;
 }
 #magic-line {
   position: absolute;
   bottom: -2px;
   left: 0;
-  width: 10px;
+  width: 50px;
   height: 2px;
-  background: #db9603;
+  background: #eaf874;
 }
 .ie6 #example-one li,
 .ie7 #example-one li {
@@ -292,15 +292,15 @@ a:hover {
 }
 #reservation-form .field {
   display: block;
-  height: 20px;
+  height: 25px;
   font-size: 13px;
-  color: #fac9a9;
+  color: #f0edeb;
   margin-bottom: 10px;
 }
 #reservation-form select {
-  border: 1px solid #5d3825;
-  background: #db9603;
-  color: #fff;
+  border: 1px solid #efef59;
+  background: #ecebe7;
+  color: black;
   outline: none;
   padding: 5px;
   float: left;
@@ -317,7 +317,7 @@ a:hover {
   display: block;
   padding-bottom: 4px;
   font-size: 13px;
-  color: #aaa;
+  color: rgb(206, 205, 205);
 }
 /*--Content--*/
 .content {
@@ -339,7 +339,7 @@ a:hover {
   overflow: hidden;
 }
 .data {
-  color: #989898;
+  color: #060505;
   margin-bottom: 1px;
 }
 .color {
@@ -357,7 +357,7 @@ a:hover {
   display: inline-block;
   font-size: 13px;
   line-height: 1.8em;
-  color: #888;
+  color: blue;
 }
 .listimg {
   display: block;

@@ -68,6 +68,7 @@
 									<?php
 								}
 							?>
+							
 						</table>
 							<?php
 							}
@@ -80,7 +81,7 @@
 								<?php
 							}
 							?>
-						
+						<a href="check_login.php?show=<?php echo $shh['s_id'];?>&movie=<?php echo $shh['movie_id'];?>&theatre=<?php echo $shw['theatre_id'];?>"><button class="button" >Book Your Ticket</button></a>
 					</div>			
 				<?php include('movie_sidebar.php');?>
 			</div>
