@@ -2,7 +2,6 @@
 <link rel="stylesheet" href="validation/dist/css/bootstrapValidator.css"/>
     
 <script type="text/javascript" src="validation/dist/js/bootstrapValidator.js"></script>
-  <!-- =============================================== -->
   <?php
     include('form.php');
     $frm=new formBuilder;      
