@@ -14,14 +14,15 @@
 					<div class="textcontact">
 						<p>Theatre Assistance<br>
 						Online Movie Theatre Booking System<br>
-						Ph: 6969786969<br>
+						Phone:(+91) 123456789
+						<br>
 						</p>
 					</div>
 				</div>
 				<div class="col_1_of_4 span_1_of_4">
 					<div class="call_info">
 						<p class="txt_3">Call us toll free:</p>
-						<p class="txt_4">1 200 696 39669</p>
+						<p class="txt_4">1234 500 3456</p>
 					</div>
 				</div>
 				<div class="col_1_of_4 span_1_of_4">

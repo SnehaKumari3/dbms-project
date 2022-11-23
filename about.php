@@ -68,6 +68,7 @@
 									<?php
 								}
 							?>
+							
 						</table>
 							<?php
 							}
@@ -75,12 +76,12 @@
 							else
 							{
 								?>
-								<h3 style="color:#444; font-size:23px;" class="text-center">Currently there are no any shows available!</h3>
-								<p class="text-center">Please check back later!</p>
+								<h3 style="color:#444; font-size:23px;" class="text-center">Ooops!! Currently there are no any shows available!</h3>
+								<p class="text-center">Please check back later. Thank You!</p>
 								<?php
 							}
 							?>
-						
+						<a href="check_login.php?show=<?php echo $shh['s_id'];?>&movie=<?php echo $shh['movie_id'];?>&theatre=<?php echo $shw['theatre_id'];?>"><button class="button" >Book Your Ticket</button></a>
 					</div>			
 				<?php include('movie_sidebar.php');?>
 			</div>

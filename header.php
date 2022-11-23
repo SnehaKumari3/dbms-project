@@ -7,7 +7,7 @@ date_default_timezone_set('Asia/Kathmandu');
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>OMTBS</title>
+<title>Movie Ticket Booking System</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
 <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="all" />

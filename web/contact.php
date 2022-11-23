@@ -1,13 +1,8 @@
-<!--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
+
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Free Theater Website Template | Contact :: w3layouts</title>
+<title>Movie Ticket Booking Website | Contact :: dbmsproject@nitp.ac.in</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
 <script src='http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js'></script>
@@ -64,19 +59,19 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				  	<h3>Contact Us</h3>
 					    <form action="process_contact.php" method="post" name="form11">
 					    	<div>
-						    	<span><label>NAME</label></span>
+						    	<span><label>Name</label></span>
 						    	<span><input type="text" value="" required name="name"></span>
 						    </div>
 						    <div>
-						    	<span><label>E-MAIL</label></span>
+						    	<span><label>E-mail</label></span>
 						    	<span><input type="text" value="" required name="email"></span>
 						    </div>
 						    <div>
-						     	<span><label>MOBILE.NO</label></span>
+						     	<span><label>Mobile Number</label></span>
 						    	<span><input type="number" value="" required name="mobile"></span>
 						    </div>
 						    <div>
-						    	<span><label>SUBJECT</label></span>
+						    	<span><label>Subject</label></span>
 						    	<span><textarea required name="subect"> </textarea></span>
 						    </div>
 						   <div>
@@ -94,11 +89,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
       				</div>
       			<div class="company_address">
 				     	<h3>Company Information :</h3>
-						    	<p>500 Lorem Ipsum Dolor Sit,</p>
-						   		<p>22-56-2-9 Sit Amet, Lorem,</p>
-						<p>Phone:(00) 222 666 444</p>
-				   		<p>Fax: (000) 000 00 00 0</p>
-				 	 	<p>Email: <span>info@mycompany.com</span></p>
+						    	<p>DBMS Project</p>
+						   		<p>CSE 5th Semester, 2022 Batch</p>
+						<p>Phone:(+91) 123456789</p>
+				 	 	<p>Email: <span>dbmsproject@nitp.ac.in</span></p>
 				   		<p>Follow on: <span>Facebook</span>, <span>Twitter</span></p>
 				   </div>
 				 </div>
@@ -124,15 +118,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="textcontact">
 						<p>consectetuer adipiscing elit,<br>
 						consectetuer<br>
-						Ph: +1-800-234-52589.<br>
-						Email:Support(at)Fotoria-scope.com<br>
+						Ph: +91-123-456-78910.<br>
+						Email: dbmsproject@nitp.ac.in<br>
 						</p>
 					</div>
 				</div>
 				<div class="col_1_of_4 span_1_of_4">
 					<div class="call_info">
 						<p class="txt_3">Call us toll free:</p>
-						<p class="txt_4">1 800 234 23456</p>
+						<p class="txt_4">1234 500 3456</p>
 					</div>
 				</div>
 				<div class="col_1_of_4 span_1_of_4">
@@ -150,7 +144,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<div class="footer-bottom">
 	<div class="wrap">
 	<div class="copy">
-		<p>All rights Reserved | Design by <a href="http://w3layouts.com">W3Layouts</a></p>
+		<p>All rights Reserved | Design by CSE-2022 Batch</p>
 	</div>
  	</div>
 </div>

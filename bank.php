@@ -10,7 +10,6 @@ extract($_POST);
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0 minimal-ui"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-
 <meta name="apple-mobile-web-app-capable" content="yes"/>
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
 
@@ -22,11 +21,7 @@ extract($_POST);
 
 <title>OMTBS</title>
 <link href="css/bank.css" rel="stylesheet" type="text/css"/>
-
-
 </head>
-
-
 <body>
 
 <div id="mainContainer" class="row large-centered">
@@ -46,7 +41,7 @@ extract($_POST);
 <fieldset class="page2">
 <div class="page-heading">
 <h6 class="form-heading">Authenticate Payment</h6>
-<p class="form-subheading">OTP sent to your mobile number ending with <strong>1343</strong></p>
+<p class="form-subheading">OTP sent to your mobile number ending with <strong>0123</strong></p>
 
 
 </div>

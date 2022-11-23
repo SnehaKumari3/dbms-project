@@ -26,7 +26,6 @@ include('header.php');
                                 <div class="data">Release Date :<?php echo $n['news_date'];?></div>
                                 
                                 
-                                
                                 <span class="text-top"><?php echo $n['description'];?></span>
                           </div>
 					</div>

@@ -8,7 +8,7 @@
 				  <div class="panel-heading">Login</div>
 				  <div class="panel-body">
 				  	<?php include('msgbox.php');?>
-				<p class="login-box-msg">Sign in to start your session</p>
+				<p class="login-box-msg">Sign in to Book your First Show</p>
 				<form action="process_login.php" method="post">
       <div class="form-group has-feedback">
         <input name="Email" type="text" size="25" placeholder="Email" class="form-control" placeholder="Email"/>
