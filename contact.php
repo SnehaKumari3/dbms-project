@@ -91,7 +91,6 @@
 				  		<h3>Company Information :</h3>
 						<p>DBMS Project</p>
 						<p>CSE 5th Semester, 2022 Batch</p>
-						C
 				 	 	<p>Email: <span>dbmsproject@nitp.ac.in</span></p>
 				   		<p>Follow on: <span>Facebook</span>, <span>Twitter</span></p>
 				   </div>
