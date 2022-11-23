@@ -19,7 +19,7 @@ extract($_POST);
 <meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
 <meta http-equiv="pragma" content="no-cache" />
 
-<title>OMTBS</title>
+<title>DBMS Movie Ticket Booking </title>
 <link href="css/bank.css" rel="stylesheet" type="text/css"/>
 </head>
 <body>
@@ -30,7 +30,7 @@ extract($_POST);
   
   <hr class="divider">
   <dl class="mercDetails">
-  	<dt>Merchant</dt> 				<dd>Shop Street</dd>
+  	<dt>Merchant</dt> 				<dd>DBMS Group</dd>
     <dt>Transaction Amount</dt> 	<dd>INR <?php echo  $_SESSION['amount'];?></dd>
     <dt>Debit Card</dt> 		<dd><?php echo  $number;?></%></dd>
   </dl>
