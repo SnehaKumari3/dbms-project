@@ -15,7 +15,7 @@ $theatre=mysqli_fetch_array($th);
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Theatre Assistance</title>
+  <title>DBMS Theatre Assistance</title>
   <!-- valodation -->
   <script type="text/javascript" src="../validation/vendor/jquery/jquery-1.10.2.min.js"></script>
   <link rel="stylesheet" href="../validation/dist/css/bootstrapValidator.css"/> 
@@ -51,7 +51,7 @@ $theatre=mysqli_fetch_array($th);
       <!-- mini logo for sidebar mini 50x50 pixels -->
       <span class="logo-mini"><b>T</b>A</span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg"><b>Theatre</b> Assistant</span>
+      <span class="logo-lg"><b>DBMS </b> TheatreAssistant</span>
     </a>
     <!-- Header Navbar: style can be found in header.less -->
     <nav class="navbar navbar-static-top">
@@ -77,7 +77,7 @@ $theatre=mysqli_fetch_array($th);
                 <img src="cinema.png" class="img-circle" alt="User Image">
 
                 <p>
-                  Theatre Assistance
+                  DBMS Theatre Assistance
                 </p>
               </li>
               <li class="user-footer">
